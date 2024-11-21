@@ -27,3 +27,8 @@ The Covid-19 Dashboard includes the following components:
 - Country-wise Cases: Displays the number of confirmed cases, active cases, recovered cases, and deaths for each country.
 
 - Geographic Map Visual: Visualizes the number of confirmed cases by geographical location on a world map, allowing for a geographical understanding of the spread.
+
+### Covid - 19 Data Analysis Dashboard
+
+![Covid_Dashboard](https://github.com/user-attachments/assets/db951b3c-2a53-41cd-859b-0b428603b974)
+
